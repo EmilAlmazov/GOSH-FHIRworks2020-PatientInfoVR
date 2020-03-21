@@ -1,7 +1,7 @@
 # GOSH-FHIRworks2020-PatientInfoVR
 VR/Unity/C# Project showing Patient Data from GOSH (Great Ormond Street Hospital) DRIVER'S FHIR (Fast Healthcare Interoperability Resources) Server on top of a 360° Playback inside a Virtual Reality environment.
 
-# What project does
+## What project does
 - 360° video-player that allows you to:
   - Play/Pause/Stop video
   - Change volume
@@ -11,7 +11,13 @@ VR/Unity/C# Project showing Patient Data from GOSH (Great Ormond Street Hospital
   
 *Videos used in the project are random surgery videos taking online, which have no association with the Patient's data displayed and are only used for demonstration purposes
 
-# Requirements to run project in Unity
+## How project works
+- 3 Unity Scripts:
+  1. **Api** (Connects to FHIR API, Updates & Displays Patient Info)
+  2. **VideoManger** (Implements Play, Pause Stop, Change Volume & "Inputfield to Video" functionalities)
+  3. **LookAround** (Allows user to move around the video using computer mouse, for convenience)
+
+## Requirements to run project in Unity
 
 1. Create new Unity project
 2. Import package
