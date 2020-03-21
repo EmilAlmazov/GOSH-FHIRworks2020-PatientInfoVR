@@ -20,6 +20,12 @@ VR/Unity/C# Project showing Patient Data from GOSH (Great Ormond Street Hospital
 ## Requirements to run project in Unity
 
 1. Create new Unity project
-2. Import package
-3. Use https://github.com/greenfrogs/FHIRworks_2020?fbclid=IwAR3v1f3RUjr5u9NdqqgEkHKxcHHVwCtO9A2NRHjsrCzZ_BiMjDSHOsfXMVY to set up access to the GOSH DRIVE's FHIR Server
-4. Hit `Play` button in Unity to run the demonstrator
+2. Import package (`Assets -> Import Package -> Custom Package...`)
+3. Import TextMeshPro Essentials
+```
+Window -> TextMeshPro -> Import TMP Essential Resources
+Window -> TextMeshPro -> Import TMP Examples and Resources
+```
+
+4. Use https://github.com/greenfrogs/FHIRworks_2020?fbclid=IwAR3v1f3RUjr5u9NdqqgEkHKxcHHVwCtO9A2NRHjsrCzZ_BiMjDSHOsfXMVY to set up access to the GOSH DRIVE's FHIR Server
+5. Hit `Play` button in Unity to run the demonstrator
