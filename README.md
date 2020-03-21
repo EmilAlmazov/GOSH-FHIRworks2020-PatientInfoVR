@@ -29,3 +29,4 @@ Window -> TextMeshPro -> Import TMP Examples and Resources
 
 4. Use https://github.com/greenfrogs/FHIRworks_2020?fbclid=IwAR3v1f3RUjr5u9NdqqgEkHKxcHHVwCtO9A2NRHjsrCzZ_BiMjDSHOsfXMVY to set up access to the GOSH DRIVE's FHIR Server
 5. Hit `Play` button in Unity to run the demonstrator
+6. If still stuck, follow this guide: INSERT GUIDE HERE
