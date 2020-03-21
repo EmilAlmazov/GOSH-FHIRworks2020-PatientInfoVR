@@ -19,7 +19,7 @@ VR/Unity/C# Project showing Patient Data from GOSH (Great Ormond Street Hospital
 
 ## Requirements to run project in Unity
 
-1. Create new Unity project
+1. Create new Unity project (Use Unity Version 2019.2.17f1)
 2. Import package (`Assets -> Import Package -> Custom Package...`)
 3. Import TextMeshPro Essentials
 ```
