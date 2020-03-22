@@ -1,6 +1,8 @@
 # GOSH-FHIRworks2020-PatientInfoVR
 VR/Unity/C# Project showing Patient Data from GOSH (Great Ormond Street Hospital) DRIVER'S FHIR (Fast Healthcare Interoperability Resources) Server on top of a 360° Playback inside a Virtual Reality environment.
 
+LINK TO **KEY FEATURES** VIDEO: https://youtu.be/Lwle1gM9dq8
+
 ## What project does
 - 360° video-player that allows you to:
   - Play/Pause/Stop video
